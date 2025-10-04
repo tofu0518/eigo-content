@@ -1,0 +1,4 @@
+id,headword,pos,meaning_ja,example_en,example_ja,difficulty_score,tags,source
+200-0001,travel,v,旅行する,"I will travel to Kyoto next week.","私は来週京都へ旅行します。",200,動作,準2級
+200-0002,explain,v,説明する,"Can you explain the rule?","そのルールを説明してくれますか？",210,学校,準2級
+200-0003,danger,n,危険,"There is a danger of fire.","火事の危険があります。",220,安全,準2級
