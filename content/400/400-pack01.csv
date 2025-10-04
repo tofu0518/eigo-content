@@ -1,0 +1,4 @@
+id,headword,pos,meaning_ja,example_en,example_ja,difficulty_score,tags,source
+400-0001,interpret,v,解釈する,"She can interpret the law in detail.","彼女は法律を詳しく解釈できる。",400,法律,準1級
+400-0002,emerge,v,現れる,"A new problem emerged during the discussion.","議論の中で新しい問題が現れた。",410,抽象,準1級
+400-0003,precise,adj,正確な,"He gave a precise answer.","彼は正確な答えをした。",420,学術,準1級
