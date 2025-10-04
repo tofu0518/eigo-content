@@ -1,0 +1,3 @@
+id,headword,pos,meaning_ja,example_en,example_ja,difficulty_score,tags,source
+100-0001,apple,n,りんご,"I ate an apple.","私はりんごを食べた。",100,食べ物,3級
+100-0002,school,n,学校,"The school is near my house.","その学校は私の家の近くにある。",110,学校,3級
