@@ -1,0 +1,4 @@
+id,headword,pos,meaning_ja,example_en,example_ja,difficulty_score,tags,source
+300-0001,society,n,社会,"We live in a modern society.","私たちは現代社会に生きている。",300,社会,2級
+300-0002,policy,n,政策,"The government announced a new policy.","政府は新しい政策を発表した。",310,政治,2級
+300-0003,reduce,v,減らす,"We must reduce waste.","私たちはごみを減らさなければならない。",320,環境,2級
