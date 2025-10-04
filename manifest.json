@@ -1,0 +1,40 @@
+{
+  "packs": [
+    {
+      "pack_id": "100-pack01",
+      "band": 100,
+      "version": "1.0.0",
+      "rows": 200,
+      "checksum": "",
+      "url": "https://tofu0518.github.io/eigo-content/content/100/100-pack01.csv",
+      "updated_at": "2025-10-04T09:00:00Z"
+    },
+    {
+      "pack_id": "200-pack01",
+      "band": 200,
+      "version": "1.0.0",
+      "rows": 200,
+      "checksum": "",
+      "url": "https://tofu0518.github.io/eigo-content/content/200/200-pack01.csv",
+      "updated_at": "2025-10-04T09:00:00Z"
+    },
+    {
+      "pack_id": "300-pack01",
+      "band": 300,
+      "version": "1.0.0",
+      "rows": 200,
+      "checksum": "",
+      "url": "https://tofu0518.github.io/eigo-content/content/300/300-pack01.csv",
+      "updated_at": "2025-10-04T09:00:00Z"
+    },
+    {
+      "pack_id": "400-pack01",
+      "band": 400,
+      "version": "1.0.0",
+      "rows": 200,
+      "checksum": "",
+      "url": "https://tofu0518.github.io/eigo-content/content/400/400-pack01.csv",
+      "updated_at": "2025-10-04T09:00:00Z"
+    }
+  ]
+}
